@@ -1,0 +1,182 @@
+error line 4855 - supposed 1022 'Славноярово' but was 245 'Миллерово' - province 500
+error line 4856 - supposed 245 'Миллерово' but was 1022 'Славноярово' - province 509
+error line 20666 - supposed 407 'Уральск' but was 1017 'Штрудельград' - province 11538
+error line 25782 - supposed 1017 'Штрудельград' but was 1022 'Славноярово' - province 509
+error line 25787 - supposed 1017 'Штрудельград' but was 245 'Миллерово' - province 3519
+error line 27787 - supposed 407 'Уральск' but was 1017 'Штрудельград' - province 3406
+error line 31161 - supposed 237 'Элиста' but was 1019 'Обитель' - province 11724
+error line 31164 - supposed 237 'Элиста' but was 217 'Былкоград' - province 481
+error line 31168 - supposed 237 'Элиста' but was 1020 'Умеров край' - province 3413
+error line 31170 - supposed 237 'Элиста' but was 217 'Былкоград' - province 3475
+error line 31179 - supposed 237 'Элиста' but was 1020 'Умеров край' - province 6794
+error line 31181 - supposed 237 'Элиста' but was 217 'Былкоград' - province 9442
+error line 31187 - supposed 237 'Элиста' but was 217 'Былкоград' - province 11416
+error line 31190 - supposed 237 'Элиста' but was 1019 'Обитель' - province 11724
+error line 31191 - supposed 237 'Элиста' but was 1021 'Патапимово' - province 11727
+error line 31192 - supposed 237 'Элиста' but was 217 'Былкоград' - province 9442
+error line 31193 - supposed 237 'Элиста' but was 217 'Былкоград' - province 3475
+error line 31198 - supposed 237 'Элиста' but was 1020 'Умеров край' - province 6794
+error line 31200 - supposed 237 'Элиста' but was 1019 'Обитель' - province 11724
+error line 31203 - supposed 237 'Элиста' but was 217 'Былкоград' - province 481
+error line 31210 - supposed 237 'Элиста' but was 1020 'Умеров край' - province 3413
+error line 31215 - supposed 237 'Элиста' but was 217 'Былкоград' - province 11416
+error line 31217 - supposed 237 'Элиста' but was 1021 'Патапимово' - province 11727
+error line 31220 - supposed 237 'Элиста' but was 217 'Былкоград' - province 3475
+error line 31222 - supposed 237 'Элиста' but was 217 'Былкоград' - province 481
+error line 31233 - supposed 236 'Астрахань' but was 217 'Былкоград' - province 3487
+error line 31238 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 6516
+error line 31244 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 3461
+error line 31245 - supposed 236 'Астрахань' but was 217 'Былкоград' - province 3487
+error line 31247 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 6516
+error line 31256 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 6516
+error line 31261 - supposed 236 'Астрахань' but was 217 'Былкоград' - province 3487
+error line 31270 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 3461
+error line 31280 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 3464
+error line 31281 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6796
+error line 31282 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6468
+error line 31283 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 11400
+error line 31284 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 3777
+error line 31288 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 9415
+error line 31296 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 3464
+error line 31298 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 3777
+error line 31301 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6468
+error line 31302 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 6490
+error line 31303 - supposed 238 'Волгодонск' but was 237 'Элиста' - province 6765
+error line 31304 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6796
+error line 31305 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 9415
+error line 31306 - supposed 238 'Волгодонск' but was 1020 'Умеров край' - province 9581
+error line 31307 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 11400
+error line 31309 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 3464
+error line 31310 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 6490
+error line 31312 - supposed 238 'Волгодонск' but was 1020 'Умеров край' - province 9581
+error line 31314 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 9415
+error line 31316 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 3777
+error line 31317 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 11400
+error line 31319 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6468
+error line 31322 - supposed 238 'Волгодонск' but was 237 'Элиста' - province 6765
+error line 31323 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6796
+error line 31328 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 9415
+error line 31329 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 6490
+error line 31332 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 3464
+error line 31333 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6796
+error line 32294 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6506
+error line 32295 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3518
+error line 32296 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6539
+error line 32297 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 32298 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3518
+error line 32299 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6506
+error line 32300 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 32301 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6539
+error line 32302 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 32303 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3518
+error line 32304 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6539
+error line 32305 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 32306 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6575
+error line 32307 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3517
+error line 32308 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3518
+error line 32309 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 32310 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6506
+error line 32311 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6539
+error line 32312 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6575
+error line 32315 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 9475
+error line 32316 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11395
+error line 32317 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11460
+error line 32319 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6575
+error line 32320 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 32321 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11460
+error line 32323 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3517
+error line 32325 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 9475
+error line 32326 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11395
+error line 32327 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3518
+error line 32328 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6539
+error line 32330 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6506
+error line 32332 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6575
+error line 32333 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 9475
+error line 32335 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6575
+error line 32336 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11460
+error line 32338 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 9475
+error line 32468 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 3582
+error line 32482 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 3582
+error line 32486 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 6602
+error line 32494 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 11527
+error line 32506 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 3582
+error line 32507 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 11527
+error line 32512 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 6602
+error line 32524 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 6503
+error line 32527 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 32528 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11474
+error line 32529 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 9459
+error line 32530 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 6541
+error line 32531 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 32533 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 9530
+error line 32538 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 520
+error line 32539 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 32542 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 6503
+error line 32544 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 6541
+error line 32545 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 9459
+error line 32548 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 9530
+error line 32550 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11474
+error line 32551 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11484
+error line 32554 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 6503
+error line 32555 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 6541
+error line 32558 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 520
+error line 32560 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 9530
+error line 32563 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 32564 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11474
+error line 32565 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11484
+error line 32566 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 9459
+error line 32567 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 32568 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11474
+error line 32569 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 520
+error line 32571 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 32572 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11474
+error line 32574 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11484
+error line 45007 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 6490
+error line 47995 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 6541
+error line 47996 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 6503
+error line 48000 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 520
+error line 48001 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11474
+error line 48002 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 3503
+error line 48003 - supposed 217 'Былкоград' but was 1022 'Славноярово' - province 9459
+error line 48007 - supposed 217 'Былкоград' but was 1018 'Порт Юлий' - province 11484
+error line 48009 - supposed 217 'Былкоград' but was 1017 'Штрудельград' - province 9530
+error line 48268 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 6516
+error line 48277 - supposed 236 'Астрахань' but was 217 'Былкоград' - province 3487
+error line 48280 - supposed 236 'Астрахань' but was 1018 'Порт Юлий' - province 3461
+error line 48288 - supposed 237 'Элиста' but was 1020 'Умеров край' - province 3413
+error line 48292 - supposed 237 'Элиста' but was 217 'Былкоград' - province 3475
+error line 48293 - supposed 237 'Элиста' but was 217 'Былкоград' - province 481
+error line 48294 - supposed 237 'Элиста' but was 1019 'Обитель' - province 11724
+error line 48295 - supposed 237 'Элиста' but was 1021 'Патапимово' - province 11727
+error line 48299 - supposed 237 'Элиста' but was 1020 'Умеров край' - province 6794
+error line 48300 - supposed 237 'Элиста' but was 217 'Былкоград' - province 9442
+error line 48306 - supposed 237 'Элиста' but was 217 'Былкоград' - province 11416
+error line 48309 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 11400
+error line 48311 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 3777
+error line 48313 - supposed 238 'Волгодонск' but was 237 'Элиста' - province 6765
+error line 48314 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6468
+error line 48315 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 9415
+error line 48318 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 3464
+error line 48319 - supposed 238 'Волгодонск' but was 1021 'Патапимово' - province 6796
+error line 48320 - supposed 238 'Волгодонск' but was 1022 'Славноярово' - province 6490
+error line 48322 - supposed 238 'Волгодонск' but was 1020 'Умеров край' - province 9581
+error line 48410 - supposed 245 'Миллерово' but was 1022 'Славноярово' - province 509
+error line 48414 - supposed 245 'Миллерово' but was 217 'Былкоград' - province 533
+error line 48418 - supposed 245 'Миллерово' but was 1022 'Славноярово' - province 3478
+error line 48421 - supposed 245 'Миллерово' but was 1022 'Славноярово' - province 3489
+error line 48424 - supposed 245 'Миллерово' but was 1022 'Славноярово' - province 3505
+error line 48831 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 3582
+error line 48844 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 11527
+error line 48847 - supposed 265 'Михайловка' but was 217 'Былкоград' - province 6602
+error line 50775 - supposed 407 'Уральск' but was 1017 'Штрудельград' - province 11538
+error line 50792 - supposed 407 'Уральск' but was 1017 'Штрудельград' - province 3406
+error line 54647 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3518
+error line 54649 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6575
+error line 54650 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6539
+error line 54652 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11395
+error line 54653 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6506
+error line 54655 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11460
+error line 54656 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 6479
+error line 54658 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 3517
+error line 55794 - supposed 238 'Волгодонск' but was 237 'Элиста' - province 6765
+error line 56345 - supposed 829 'Карл-Маркс-Штадт' but was 1017 'Штрудельград' - province 11395
